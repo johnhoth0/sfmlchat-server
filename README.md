@@ -1,0 +1,2 @@
+# sfmlchat-server
+server lol
